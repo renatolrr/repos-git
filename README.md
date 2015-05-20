@@ -1,6 +1,6 @@
-Comparando repositorios git
+Open XXI 
 =========
 
-Qué repositorios de git hay y qué te ofrecen. 
+Repositorio empresarial de trabajo de la Sociedad Civil Open XXI
 
-Incluir una tabla de diferentes repositorios git y qué tipo de facilidades ofrecen al usuario. 
+En OpenXXI usamos lo digital para progresar en la innovación social basándonos en el uso y enfoque de las TIC como una herramienta puesta al servicio de la sociedad. 
