@@ -7,7 +7,9 @@ En OpenXXI usamos lo digital para progresar en la innovación social basándonos
 
 Miembros de la empresa: 
 Mónica López: documentación y datos abiertos
+
 José Alonso Arias: reciclaje y reutilización de equipos
+
 Pablo Hinojosa: software libre y licencias abiertas
 
 
